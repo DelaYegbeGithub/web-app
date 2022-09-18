@@ -96,14 +96,14 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>ACADA Learning Releases Nexus Repository</name>
-	      <url>http://172.31.85.41:8081/repository/new-project-release/</url>
+	      <name>dela</name>
+	      <url>http://172.31.93.2:8081/repository/release//</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>ACADA Learning Snapshot Nexus Repository </name>
-	      <url>http://172.31.85.41:8081/repository/new-project-snapshot/</url>
+	      <name>dela</name>
+	      <url>http://172.31.93.2:8081/repository/snapshot//</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
